@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfoliosuyashverma.netlify.app/](https://portfoliosuyashverma.netlify.app/)
 
-- 💬 Ask me about **java , HTML ,CSS**
+- 💬 Ask me about **Java ,HTML ,CSS ,Javascript ,React**
 
 - 📫 How to reach me **suyashvermaabes27@gmail.com**
 
