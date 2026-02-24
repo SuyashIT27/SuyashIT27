@@ -32,7 +32,8 @@
 </p>
 # 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api?username=SuyashIT27&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SuyashIT27&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=SuyashIT27&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SuyashIT27&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashIT27&layout=compact&theme=tokyonight&hide_border=true)
