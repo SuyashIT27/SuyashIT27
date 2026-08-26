@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Suyash Verma</h1>
 
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
@@ -147,28 +148,16 @@ IT undergraduate and **MERN Stack Developer** with hands-on experience in full-s
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SuyashIT27&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<a href="https://andrewjerryv.github.io/GitHub-Stats-Generator/?username=SuyashIT27&theme=dark&type=svg&stats=true&languages=true&grade=true&achievements=true&activity=true&chart=true&link=true">
+
+<img src="https://img.shields.io/badge/View%20My%20GitHub%20Stats-AndrewJerryV%20Stats%20Generator-161b22?style=for-the-badge&logo=github" alt="View GitHub Stats"/>
+
+</a>
 
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SuyashIT27&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashIT27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
+  <i>Live GitHub statistics, languages, achievements, activity and contribution chart</i>
 </p>
 
 ---
@@ -222,3 +211,4 @@ IT undergraduate and **MERN Stack Developer** with hands-on experience in full-s
 <p align="center">
   <i>Building • Learning • Testing • Improving</i>
 </p>
+
