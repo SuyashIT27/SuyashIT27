@@ -147,9 +147,15 @@ IT undergraduate and **MERN Stack Developer** with hands-on experience in full-s
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SuyashIT27&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=SuyashIT27&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<br/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=SuyashIT27&theme=tokyonight&hide_border=true" />
 
@@ -161,7 +167,7 @@ IT undergraduate and **MERN Stack Developer** with hands-on experience in full-s
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashIT27&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashIT27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </p>
 
